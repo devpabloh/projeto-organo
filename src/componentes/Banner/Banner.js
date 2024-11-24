@@ -2,9 +2,7 @@
 function Banner(){
 
     return(
-        <>
-            img
-        </>
+        <img src=""></img>
     )
 }
 
