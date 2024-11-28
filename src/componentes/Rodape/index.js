@@ -5,9 +5,9 @@ const Rodape = ()=>{
         <footer className="footer">
             <section>
                 <ul>
-                    <li><a href=""><img src="./imagens/fb.png" alt="" /></a></li>
-                    <li><a href=""><img src="./imagens/tw.png" alt="" /></a></li>
-                    <li><a href=""><img src="./imagens/ig.png" alt="" /></a></li>
+                    <li><a href="https://www.instagram.com/devpabloh/"><img src="./imagens/fb.png" alt="" /></a></li>
+                    <li><a href="https://www.instagram.com/devpabloh/"><img src="./imagens/tw.png" alt="" /></a></li>
+                    <li><a href="https://www.instagram.com/devpabloh/"><img src="./imagens/ig.png" alt="" /></a></li>
                 </ul>
             </section>
             <section>
