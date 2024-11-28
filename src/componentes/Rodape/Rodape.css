@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #6278F7;
+    color: #FFFFFF;
+    height: 13.3125rem;
+}
+
+.footer section ul{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    list-style-type: none;
+    gap: 35px;
+}
